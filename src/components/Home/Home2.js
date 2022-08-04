@@ -50,6 +50,15 @@ function Home2() {
 							<i>
 								<b className="purple"> Game Development</b>
 							</i>
+							<br />
+							<br />
+							I have experience of failing a
+							<i>
+								<b className="purple"> startup</b>
+							</i> 
+							as well and if I could ever go back in time, I will do the startup again because the<i>
+								<b className="purple"> learning</b>
+							</i>  was immense.
 						</p>
 					</Col>
 					<Col md={4} className="myAvtar">
